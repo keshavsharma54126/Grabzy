@@ -8,7 +8,7 @@ const start  = async()=>{
             console.log(err)
         }
         else{
-            console.log("ZapGo started on ")
+            console.log("ZapGo started on port "+ PORT)
         }
     })
 }
