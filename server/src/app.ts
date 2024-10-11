@@ -12,7 +12,7 @@ const start  = async()=>{
             console.log(err)
         }
         else{
-            console.log("ZapGo started on port "+ PORT)
+            console.log("Grabzy started on port "+ PORT)
         }
     })
 }
